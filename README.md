@@ -1,4 +1,4 @@
-# A collection of JavaScript/Nodejs scripts I wrote for practice
+# A collection of JavaScript/Node.js scripts I wrote for practice
 
 Program/problem description is given as doc comment on top of each program.
 
